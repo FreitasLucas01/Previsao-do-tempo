@@ -75,6 +75,10 @@ async function handleClick() {
   weatherDetails.style.display = "";
   weatherDetails.classList.add("fadeIn");
   container.style.height = "650px";
+
+  if (window.matchMedia("(max-width: 400px)").matches){
+
+  }
 }
 
 search.addEventListener("click", handleClick);
