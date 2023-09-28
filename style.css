@@ -199,6 +199,7 @@ button:hover {
   }
 
   input::placeholder {
+    width: 100%;
     font-size: 1.1rem;
   }
 
