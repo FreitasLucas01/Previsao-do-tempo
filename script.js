@@ -77,7 +77,7 @@ async function handleClick() {
   container.style.height = "650px";
 
   if (window.matchMedia("(max-width: 365px)").matches){
-    container.style.height = "400px";
+    container.style.height = "580px";
   }
 }
 
