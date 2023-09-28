@@ -24,11 +24,10 @@
 <h2 id="func"> ⚙ Funcionalidades </h2>
 
 - [x] Página totalmente responsiva <br>
-- [x] Calculadora funcional</br>
-- [x] Temática de Pokémon <br>
-- [x] Requisição com PokéAPI<br>
-- [x] Resultado do cálculo mostra o Pokémon respectivo<br>
-- [x] Imagens e nomes de Pokémon <br><br>
+- [x] Exibe previsão do tempo, umidade e velocidade do vento</br>
+- [x] Imagem respectiva ao clima</br>
+- [x] Design minimalista <br>
+- [x] Requisição com OpenWeather API<br>
 
 <h2 id="tec"> 🚀 Tecnologias </h2>
 
