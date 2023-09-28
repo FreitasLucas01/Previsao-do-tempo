@@ -1,5 +1,5 @@
 <br>
-<p align="center"><img align="center" src="img/clear.png"> </p> <br>
+<p align="center"><img align="center" src="img/clear-github.png"> </p> <br>
 
 <h1 align="center"> Previsão do Tempo</h1>
 
