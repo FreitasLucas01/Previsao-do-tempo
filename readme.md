@@ -27,7 +27,7 @@
 - [x] Exibe previsão do tempo, umidade e velocidade do vento</br>
 - [x] Imagem respectiva ao clima</br>
 - [x] Design minimalista <br>
-- [x] Requisição com OpenWeather API<br>
+- [x] Requisição com OpenWeather API<br><br>
 
 <h2 id="tec"> 🚀 Tecnologias </h2>
 
